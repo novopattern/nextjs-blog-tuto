@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import { FC } from 'react'
 
-const name = 'Jonatan Sombié'
+const name = 'Eric Clever'
 export const siteTitle = 'Next.js Sample Website'
 
 type Props = {

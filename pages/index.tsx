@@ -29,10 +29,10 @@ const Home: FC<Props> = ({ allPostsData }) => {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Jonatan. I'm a software engineer. You cannot contact me, I contact you.
+          Hello, I&apos;m Jonatan. I&apos;m a software engineer. You cannot contact me, I contact you.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (This is a sample website - you&apos;ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
